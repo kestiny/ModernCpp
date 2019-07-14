@@ -2,7 +2,7 @@
 # Modern-CMake
 Modern CMake学习记录
 
-[1.Modern CMake简介](./1.Modern CMake简介.md)
+[1.Modern CMake简介](./1.Modern%20CMake简介.md)
 
 [2.基本介绍1](./2.基本介绍1.md)
 

@@ -2,7 +2,7 @@
 # Modern-C++
 Modern C++学习记录
 
-[1.转向Modern C++](./1.转向Modern C++.md)
+[1.转向Modern C++](./1.转向Modern%20C++.md)
 
 [2.智能指针](./2.智能指针.md)
 
