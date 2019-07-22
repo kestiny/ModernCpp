@@ -6,6 +6,6 @@ Modern C++学习记录
 
 [2.智能指针](./2.智能指针.md)
 
-[4.Lambda 表达式](./4.Lambda 表达式.md)
+[4.Lambda 表达式](./4.Lambda%20表达式.md)
 
 学习[Effective Modern C++]()的笔记。
